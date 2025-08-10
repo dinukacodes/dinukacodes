@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinukacodes" alt="dinukacodes" /></a> </p>
 
-- 🌱 I’m currently learning **Devops and Data engineering tools**
+- 🌱 I’m currently learning **Cloud and Data engineering tools**
 
 - 👨‍💻 All of my projects are available at [https://medium.com/@dinukajkdy](https://medium.com/@dinukajkdy)
 
