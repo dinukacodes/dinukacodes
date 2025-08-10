@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dinuka jayakody" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinuka jayakody" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dinuka-tharinda-jayakody/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinuka jayakody" height="30" width="40" /></a>
 <a href="https://medium.com/@dinukajkdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dinukajkdy" height="30" width="40" /></a>
 </p>
 
