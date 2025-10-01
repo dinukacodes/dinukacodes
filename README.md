@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [suppose It’s 1999 and you had enough of writing html](https://medium.com/@dinukajkdy/craft-your-own-dsl-a5c40237e500?source=rss-7ce4eb4c5e03------2)
-- [Wrappers on Wrappers: Building Products with LLMs](https://medium.com/@dinukajkdy/wrappers-on-wrappers-building-products-with-llms-1d902bff9545?source=rss-7ce4eb4c5e03------2)
+- [Creating Domain Specific Languages](https://medium.com/@dinukajkdy/craft-your-own-dsl-a5c40237e500?source=rss-7ce4eb4c5e03------2)
+- [AI Agents - My Experience](https://medium.com/@dinukajkdy/wrappers-on-wrappers-building-products-with-llms-1d902bff9545?source=rss-7ce4eb4c5e03------2)
 - [Medly: A Technical Guide to Developing a Multi-Agent Co-Pilot for Healthcare Professionals](https://medium.com/@dinukajkdy/constructing-medly-a-technical-guide-to-developing-a-multi-agent-co-pilot-for-healthcare-2ffbd8f61336?source=rss-7ce4eb4c5e03------2)
 - [Multi-Agent Systems in Action: A Hackathon Recap](https://medium.com/@dinukajkdy/multi-agent-systems-in-action-a-hackathon-recap-ca64ed322670?source=rss-7ce4eb4c5e03------2)
 <!-- BLOG-POST-LIST:END -->
