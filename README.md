@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [From Sequential to Scale: Advanced Batching and Parallelism in LLM Serving](https://medium.com/@dinukajkdy/from-sequential-to-scale-advanced-batching-and-parallelism-in-llm-serving-e753bf3221be?source=rss-7ce4eb4c5e03------2)
 - [The art of the deal - silicon valley 2025](https://medium.com/@dinukajkdy/is-ai-a-bubble-in-2025-expert-insights-studies-and-the-truth-behind-the-hype-9ed37c35ce10?source=rss-7ce4eb4c5e03------2)
 - [The Metrics that Drive Optimization](https://medium.com/@dinukajkdy/decoding-the-dragon-why-llm-performance-is-a-two-part-problem-49d368a357a5?source=rss-7ce4eb4c5e03------2)
 - [The Secret to INT8 Quantization: Saving VRAM and Boosting LLM Speed Without Losing Accuracy](https://medium.com/@dinukajkdy/converting-an-ai-model-from-using-high-precision-numbers-fp16-to-lower-precision-numbers-int8-2826a9c1110e?source=rss-7ce4eb4c5e03------2)
-- [Creating Domain Specific Languages](https://medium.com/@dinukajkdy/craft-your-own-dsl-a5c40237e500?source=rss-7ce4eb4c5e03------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
